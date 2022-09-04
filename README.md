@@ -5,12 +5,12 @@ OpenGL implementation of 2D Robot Manipulator Visualizer which can be used in Wa
 As industry is shifting towards automation to reduce manual efforts, 2D Robot Manipulator Visualizer is a visualization of warehouse automation and gantry systems to display the ability and functionality of robots in industries. This implementation has been done in C++ OpenGL.
 
 ## Installation and Implementation
-* **Step 1: Clone this repository.**
+**Step 1: Clone this repository.**
 ```shell
 git clone https://github.com/parthmalpathak/2D-Robot-Manipulator-Visualizer.git
 ```
 
-* **Step2: Run extension file to visualize and test results.**
+**Step2: Run extension file to visualize and test results.**
 ```shell
 cd 2D-Robot-Manipulator-Visualizer/Code
 Robotic_Arm_Manipulator.exe
